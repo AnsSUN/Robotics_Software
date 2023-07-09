@@ -1,3 +1,0 @@
-/home/anshul/Documents/Github/Robotics_Software/Gazebo_sim_project/myrobot/build/CMakeFiles/rebuild_cache.dir
-/home/anshul/Documents/Github/Robotics_Software/Gazebo_sim_project/myrobot/build/CMakeFiles/edit_cache.dir
-/home/anshul/Documents/Github/Robotics_Software/Gazebo_sim_project/myrobot/build/CMakeFiles/hello.dir
